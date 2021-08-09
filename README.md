@@ -1,4 +1,4 @@
-# AsetrinGray
+# AsterinGray
 Hello I'm a student in bina nusantara university currently pursuing bachelor in computer science.
 
 ## Github Stats:
