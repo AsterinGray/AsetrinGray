@@ -1,7 +1,7 @@
 # Hello!👋 
 I'm a student in BINUS University currently pursuing bachelor in Computer Science. I love to learn about new technologies. Currently I'm trying to explore more about Web Development Technologies.
 
-[![Linkedin: Raymond Tiandinatan](https://img.shields.io/badge/-Ghazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raymond-tiandinatan/)](https://www.linkedin.com/in/raymond-tiandinatan/)
+[![Linkedin: Raymond Tiandinatan](https://img.shields.io/badge/-Raymond-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raymond-tiandinatan/)](https://www.linkedin.com/in/raymond-tiandinatan/)
 [![GitHub Asterin Gray](https://img.shields.io/github/followers/asteringray?label=follow&style=social)](https://github.com/asteringray)
 
 ## Stats
