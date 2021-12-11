@@ -2,5 +2,8 @@
 Hello!👋 I'm a student in BINUS University currently pursuing bachelor in Computer Science. I love to learn about new technologies. Currently I'm trying to explore more about Web Development Technologies.
 
 ## Github Stats:
-<img align="center" alt="AsterinGray's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AsterinGray&show_icons=true&theme=dracula"/>
-<img align="center" alt="AsterinGray's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsterinGray&theme=dracula" />  
+![Asterin's GitHub stats](https://github-readme-stats.vercel.app/api?username=asteringray&show_icons=true&theme=tokyonight)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asteringray&layout=compact&hide=php,blade&theme=tokyonight)](https://github.com/asteringray/github-readme-stats)
+
